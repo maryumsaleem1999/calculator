@@ -1,0 +1,46 @@
+.cal{
+	
+	width: 315px;
+margin: 0 auto;
+border: 2px solid blue;
+border-radius: 30px;
+background-color:#D8F0FD;
+margin-top: 40px;
+
+}
+button{
+	padding: 10px;
+	margin:2px;
+	width: 50px;
+	background-color:#E7F7FE;
+	border-radius: 10px;
+
+}
+.hye{
+	width: 109px;
+}
+.last{
+	height: 110px;
+	position: absolute;
+	top: 326px;
+	right: 367px;
+
+}
+.first,.second,.name{
+	margin-left: 10px;
+	font-size: 20px;
+
+}
+
+input{
+	width: 285px;
+	background-color: #32515A;
+	color: white;
+	border-radius: 20px;
+}
+button:hover{
+	background-color:#fff
+}
+.fit{
+	width: 105px;
+}
